@@ -2,6 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently working on full stack web development and website development
 - 📫 How to reach me - singlaanirudha@gmail.com
+- 👀 I'm currently looking for - Full Time Job Opportunity
 
 <!---
 singlaanirudha/singlaanirudha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
